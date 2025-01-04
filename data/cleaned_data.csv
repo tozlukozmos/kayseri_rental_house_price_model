@@ -1,0 +1,1302 @@
+price,room,living_room,area,age,floor,district,neighborhood
+30000,4,1,250,6,2. Kat,Talas,Yenidoğan
+10250,3,1,135,21,12. Kat,Talas,Mevlana
+13500,3,1,175,11,4. Kat,Kocasinan,Yeşil
+14999,1,1,75,0,4. Kat,Talas,Mevlana
+24000,4,1,220,15,8. Kat,Melikgazi,Köşk
+17000,3,1,180,5,7. Kat,Talas,Bahçelievler
+13999,3,1,135,0,10. Kat,Kocasinan,Zümrüt
+1699000,3,1,165,10,4. Kat,Melikgazi,Bahçelievler
+12000,3,1,165,16,8. Kat,Melikgazi,Gesi Fatih
+12500,3,1,140,9,4. Kat,Develi,İbrahimağa
+15000,3,1,170,2,4. Kat,Talas,Mevlana
+14000,3,1,160,23,3. Kat,Melikgazi,Alpaslan
+11499,1,1,50,0,3. Kat,Talas,Bahçelievler
+15000,3,1,132,1,7. Kat,Kocasinan,Seyrani
+13500,3,1,155,10,4. Kat,Talas,Mevlana
+27500,4,1,210,12,2. Kat,Talas,Yenidoğan
+12500,3,1,135,5,10. Kat,Melikgazi,Demokrasi
+10000,3,1,145,15,En Üst Kat,Develi,Yeni
+16000,2,1,150,8,1. Kat,Talas,Kiçiköy
+9500,3,1,115,18,3. Kat,Kocasinan,Hoca Ahmet Yesevi
+8000,2,1,95,11,3. Kat,Melikgazi,Demokrasi
+6000,3,1,140,25,2. Kat,Develi,Yeni
+25000,4,1,180,0,13. Kat,Kocasinan,Seyrani
+13000,3,1,165,10,Zemin,Melikgazi,Gesi Fatih
+13500,3,1,150,3,Ara Kat,Develi,Harman
+11500,3,1,160,10,4. Kat,Kocasinan,Sahabiye
+11500,3,1,135,18,13. Kat,Talas,Mevlana
+12500,3,1,175,0,10. Kat,Kocasinan,Zümrüt
+11999,1,1,60,5,6. Kat,Talas,Mevlana
+9000,2,1,100,40,Yüksek Giriş,Kocasinan,Mimarsinan
+12500,3,1,160,10,2. Kat,Develi,Fatih
+23000,4,1,180,3,2. Kat,Kocasinan,Şeker
+13000,3,1,153,13,3. Kat,Talas,Mevlana
+14500,3,1,155,8,8. Kat,Talas,Mevlana
+10000,3,1,110,0,Kot 1,Melikgazi,Mimarsinan
+16000,1,1,55,4,7. Kat,Talas,Mevlana
+14000,3,1,165,11,2. Kat,Talas,Mevlana
+25000,5,1,320,5,14. Kat,Talas,Mevlana
+11000,3,1,140,15,5. Kat,Melikgazi,İldem Cumhuriyet
+10000,3,1,120,1,Zemin,Kocasinan,Oymaağaç
+25000,3,1,155,3,2. Kat,Melikgazi,Köşk
+14000,2,1,100,0,11. Kat,Talas,Mevlana
+10000,2,1,110,0,3. Kat,Melikgazi,Mimarsinan
+10500,3,1,125,25,9. Kat,Melikgazi,Selimiye
+200000,2,1,120,1,4. Kat,Melikgazi,Yıldırım Beyazıt
+15000,3,1,160,0,5. Kat,Kocasinan,Osmangazi
+17250,3,1,165,11,9. Kat,Kocasinan,Yakut
+20000,3,1,165,4,12. Kat,Talas,Mevlana
+14000,3,1,165,11,5. Kat,Talas,Mevlana
+13000,2,1,100,112,9. Kat,Kocasinan,Şeker
+15500,2,1,200,10,2. Kat,Develi,Harman
+14000,4,1,200,3,Yüksek Giriş,Kocasinan,Şeker
+10000,3,1,145,16,1. Kat,Kocasinan,Yavuzlar
+21000,3,1,90,5,10. Kat,Talas,Mevlana
+15700,3,1,138,0,1. Kat,Develi,Yeni
+14250,3,1,165,5,2. Kat,Melikgazi,Yeşilyurt
+150000,2,1,120,1,4. Kat,Melikgazi,Yıldırım Beyazıt
+12000,3,1,165,15,12. Kat,Talas,Mevlana
+10000,3,1,140,26,1. Kat,Melikgazi,Kılıçaslan
+18400,3,1,165,5,1. Kat,Kocasinan,Uğurevler
+11999,1,1,55,0,3. Kat,Talas,Bahçelievler
+11500,4,1,140,0,Giriş Katı,Develi,Reşadiye
+13500,4,1,185,0,14. Kat,Melikgazi,Yeşilyurt
+26000,4,1,200,0,2. Kat,Kocasinan,Yakut
+13000,2,0,100,4,9. Kat,Talas,Mevlana
+12500,2,1,85,2,3. Kat,Kocasinan,Şeker
+15000,3,1,160,10,4. Kat,Kocasinan,Uğurevler
+11999,1,1,60,0,7. Kat,Talas,Bahçelievler
+11000,3,1,140,1,1. Kat,Develi,Aşağıeverek
+9000,3,1,120,25,En Üst Kat,Kocasinan,Mimarsinan
+10000,3,1,165,11,9. Kat,Melikgazi,Bahçelievler
+10000,1,1,85,0,2. Kat,Develi,Bahçelievler
+11000,3,1,105,0,7. Kat,Melikgazi,Yeşilyurt
+9000,3,1,130,20,7. Kat,Kocasinan,Beyazşehir
+11999,3,1,155,11,12. Kat,Melikgazi,19 Mayıs
+26000,4,1,300,11,2. Kat,Kocasinan,Cırgalan
+8000,2,1,110,31,2. Kat,Kocasinan,Mevlana
+20000,2,1,115,0,Teras Katı,Talas,Harman
+15000,3,1,135,15,5. Kat,Talas,Mevlana
+8000,3,1,130,21,15. Kat,Melikgazi,Şirintepe
+11000,3,1,150,5,5. Kat,Melikgazi,Gökkent
+17000,3,0,175,15,1. Kat,Melikgazi,Köşk
+19000,3,1,180,3,5. Kat,Kocasinan,Uğurevler
+25000,4,1,275,5,11. Kat,Kocasinan,Erciyesevler
+26000,4,1,240,21,5. Kat,Melikgazi,Alpaslan
+11000,2,1,100,0,8. Kat,Melikgazi,Battalgazi
+16500,3,1,140,0,5. Kat,Talas,Yenidoğan
+12500,4,1,130,12,14. Kat,Melikgazi,Gülük
+13000,3,1,165,0,5. Kat,Kocasinan,Mithatpaşa
+12500,3,1,175,11,4. Kat,Kocasinan,Mithatpaşa
+9250,3,1,135,5,5. Kat,Develi,Reşadiye
+15000,1,1,135,12,1. Kat,Talas,Yenidoğan
+15000,3,1,200,35,2. Kat,Kocasinan,Sahabiye
+8000,3,1,120,20,2. Kat,Develi,Camiicedit
+17500,3,1,150,0,5. Kat,Talas,Yenidoğan
+18500,4,1,250,1,4. Kat,Develi,Mustafa Asım Köksal
+13000,2,1,90,1,3. Kat,Kocasinan,Şeker
+13000,3,1,160,11,8. Kat,Talas,Yenidoğan
+12500,3,1,180,5,1. Kat,Melikgazi,İldem Cumhuriyet
+10000,2,1,110,0,4. Kat,Kocasinan,Şeker
+10000,3,1,120,5,5. Kat,Develi,Alpaslan
+11000,3,1,120,27,1. Kat,Melikgazi,Selimiye
+12500,3,1,150,8,2. Kat,Develi,Reşadiye
+18000,3,1,184,11,3. Kat,Melikgazi,Köşk
+30000,5,2,350,15,13. Kat,Kocasinan,Erciyesevler
+30000,4,0,230,8,5. Kat,Kocasinan,Yıldızevler
+15000,3,1,165,10,13. Kat,Talas,Mevlana
+25000,4,1,230,5,2. Kat,Kocasinan,Erciyesevler
+16500,4,1,180,16,10. Kat,Talas,Bahçelievler
+9750,3,1,135,25,1. Kat,Kocasinan,Yeni
+180000,3,1,190,26,Kot 2,Kocasinan,Sahabiye
+22500,3,1,176,5,2. Kat,Melikgazi,Germir
+11500,2,1,110,0,2. Kat,Kocasinan,Osmangazi
+10500,3,1,120,0,4. Kat,Develi,Mehmet Akif Ersoy
+7500,2,1,100,20,Yüksek Giriş,Kocasinan,Yeni
+12500,3,1,140,5,1. Kat,Develi,Reşadiye
+15000,2,1,120,2,3. Kat,Kocasinan,Şeker
+13500,3,1,140,7,2. Kat,Yahyalı,100. Yıl
+13500,3,1,170,0,8. Kat,Melikgazi,Şirintepe
+15000,3,1,120,0,6. Kat,Kocasinan,Yıldızevler
+11500,3,1,130,40,1. Kat,Kocasinan,Sahabiye
+15000,1,1,110,15,4. Kat,Talas,Bahçelievler
+24500,2,1,100,1,4. Kat,Melikgazi,Bahçelievler
+25000,3,1,145,4,10. Kat,Melikgazi,Yeşilyurt
+20000,3,1,150,6,1. Kat,Develi,Aşık Seyrani
+11000,3,1,130,0,2. Kat,Develi,Yeni
+15999,4,1,175,5,1. Kat,Melikgazi,Bahçelievler
+13000,3,1,145,0,2. Kat,Develi,Harman
+10000,1,1,65,5,4. Kat,Talas,Mevlana
+14000,3,1,165,5,12. Kat,Melikgazi,Gesi Fatih
+13000,3,1,165,5,11. Kat,Melikgazi,Gesi Fatih
+13500,2,1,100,1,5. Kat,Kocasinan,Şeker
+10000,3,1,135,0,3. Kat,Develi,Yeni
+11000,3,1,135,6,En Üst Kat,Develi,Reşadiye
+20000,4,1,180,2,4. Kat,Kocasinan,Yakut
+16000,2,1,115,3,8. Kat,Talas,Mevlana
+10000,3,1,135,6,3. Kat,Develi,Alpaslan
+10000,3,1,145,4,4. Kat,Develi,Feneseyukarı
+13000,2,1,73,0,7. Kat,Kocasinan,Şeker
+10000,3,1,105,35,2. Kat,Melikgazi,Battalgazi
+18000,3,1,155,15,8. Kat,Talas,Yenidoğan
+14999,2,1,100,5,11. Kat,Talas,Mevlana
+11000,3,1,130,0,1. Kat,Develi,Yeni
+16000,3,1,150,15,Ara Kat,Develi,Yeni
+14000,3,1,150,25,Ara Kat,Kocasinan,Sahabiye
+12500,3,1,125,30,5. Kat,Melikgazi,Osman Kavuncu
+15000,4,1,145,0,1. Kat,Develi,Harman
+16000,3,1,180,5,9. Kat,Talas,Bahçelievler
+8000,2,1,110,35,4. Kat,Talas,Yenidoğan
+15500,3,1,145,0,Ara Kat,Develi,Mustafa Asım Köksal
+15000,3,1,150,0,5. Kat,Develi,Harman
+15250,3,1,165,5,6. Kat,Melikgazi,Gesi Fatih
+18000,3,1,180,13,8. Kat,Melikgazi,Köşk
+750000,2,1,95,35,Ara Kat,Melikgazi,Mimarsinan
+11000,3,1,130,0,1. Kat,Develi,Mustafa Asım Köksal
+10000,3,1,125,10,2. Kat,Melikgazi,Osmanlı
+16000,3,1,133,0,10. Kat,Kocasinan,Ertuğrul Gazi
+11000,3,1,165,25,3. Kat,Melikgazi,Esenyurt
+14000,3,1,185,6,11. Kat,Talas,Mevlana
+9500,3,1,120,40,2. Kat,Kocasinan,Fevzi Çakmak
+55000,5,1,250,3,10. Kat,Melikgazi,Alpaslan
+12500,3,1,175,5,4. Kat,Melikgazi,Gesi Fatih
+7000,3,1,145,20,1. Kat,Kocasinan,Mimarsinan
+14000,3,1,120,1,Ara Kat,Develi,Harman
+6500,2,0,115,31,Bodrum,Melikgazi,Alpaslan
+25000,3,1,175,10,3. Kat,Melikgazi,Germir
+12000,3,1,170,10,4. Kat,Kocasinan,Ertuğrul Gazi
+15100,4,1,220,7,9. Kat,Kocasinan,Ertuğrul Gazi
+25000,3,1,197,5,10. Kat,Melikgazi,Köşk
+22000,2,1,100,0,5. Kat,Talas,Yenidoğan
+15000,3,1,165,0,8. Kat,Melikgazi,Kazımkarabekir
+10000,3,1,165,7,3. Kat,Kocasinan,Yavuz Selim
+14000,3,1,165,5,14. Kat,Talas,Mevlana
+9000,2,1,120,30,En Üst Kat,Kocasinan,Fevzi Çakmak
+13500,3,1,165,0,1. Kat,Kocasinan,Ertuğrul Gazi
+7000,3,1,170,15,En Üst Kat,Develi,Bahçelievler
+7000,3,1,165,20,Ara Kat,Melikgazi,Yıldırım Beyazıt
+15000,3,1,150,25,5. Kat,Talas,Mevlana
+10000,1,1,55,0,2. Kat,Talas,Kiçiköy
+22000,4,1,240,5,4. Kat,Kocasinan,Yakut
+10000,2,1,120,21,2. Kat,Talas,Yenidoğan
+12000,2,1,100,0,11. Kat,Talas,Mevlana
+9000,2,1,100,4,En Üst Kat,Develi,Aşık Seyrani
+9000,3,1,120,26,3. Kat,Kocasinan,Mimarsinan
+13000,3,1,140,0,En Üst Kat,Develi,Mustafa Asım Köksal
+6500,2,1,80,25,Ara Kat,Develi,Harman
+13500,3,1,160,0,Zemin,Kocasinan,Ertuğrul Gazi
+12500,4,1,155,0,Giriş Katı,Melikgazi,Yeşilyurt
+97500,3,1,105,30,Giriş Katı,Kocasinan,Mevlana
+10000,3,1,165,5,6. Kat,Melikgazi,Kazımkarabekir
+13000,2,1,65,5,13. Kat,Talas,Mevlana
+17000,4,1,180,0,11. Kat,Kocasinan,Ertuğrul Gazi
+15500,3,1,165,6,4. Kat,Talas,Mevlana
+180000,4,1,200,26,3. Kat,Kocasinan,Sahabiye
+10000,3,1,125,31,2. Kat,Kocasinan,Hacı Saki
+3500,1,1,90,21,5. Kat,Melikgazi,Aydınlıkevler
+14000,3,1,150,2,10. Kat,Kocasinan,Zümrüt
+18000,3,1,185,5,5. Kat,Talas,Mevlana
+14250,3,1,135,2,11. Kat,Melikgazi,Osman Kavuncu
+14500,3,1,165,11,10. Kat,Talas,Bahçelievler
+10000,3,1,155,5,Ara Kat,Talas,Mevlana
+7500,3,1,120,30,Zemin,Melikgazi,30 Ağustos
+8000,2,1,100,0,4. Kat,Melikgazi,Mimarsinan
+10000,3,1,165,20,En Üst Kat,Kocasinan,Mithatpaşa
+13500,3,1,165,5,12. Kat,Talas,Mevlana
+12000,3,1,150,10,2. Kat,Develi,Mustafa Asım Köksal
+25000,4,1,200,0,11. Kat,Kocasinan,Beyazşehir
+8500,3,1,150,15,7. Kat,Melikgazi,Gülük
+17500,2,1,125,7,12. Kat,Talas,Mevlana
+8000,2,1,110,0,3. Kat,Melikgazi,Mimarsinan
+20000,2,1,100,1,5. Kat,Kocasinan,Şeker
+19000,3,1,180,5,7. Kat,Kocasinan,Barbaros
+12000,3,1,140,0,Ara Kat,Develi,Harman
+13000,3,1,120,15,5. Kat,Melikgazi,Kocatepe
+12000,3,1,175,15,Yüksek Giriş,Talas,Bahçelievler
+9500,3,1,155,15,8. Kat,Melikgazi,Şirintepe
+10000,3,1,145,16,14. Kat,Talas,Mevlana
+14000,3,1,165,7,5. Kat,Kocasinan,Mithatpaşa
+13500,3,1,185,5,1. Kat,Talas,Yenidoğan
+12500,3,1,165,5,5. Kat,Kocasinan,Fevzi Çakmak
+15000,3,1,155,12,1. Kat,Melikgazi,Yıldırım Beyazıt
+20500,3,1,170,0,5. Kat,Talas,Mevlana
+6000,2,1,110,21,1. Kat,Kocasinan,Mevlana
+15000,4,1,180,3,13. Kat,Kocasinan,Osmangazi
+15000,3,1,175,10,8. Kat,Talas,Bahçelievler
+10250,2,1,125,1,1. Kat,Kocasinan,Şeker
+8500,3,1,120,31,3. Kat,Melikgazi,Tınaztepe
+10000,3,1,125,15,8. Kat,Melikgazi,Keykubat
+10500,3,1,140,9,1. Kat,Develi,Alpaslan
+15000,3,1,175,0,8. Kat,Kocasinan,Osmangazi
+2990000,3,1,200,15,2. Kat,Develi,Yeni
+3500,2,1,100,26,Çatı Katı,Melikgazi,Danişmend Gazi
+13500,3,1,165,5,6. Kat,Talas,Yenidoğan
+12000,3,1,160,2,10. Kat,Melikgazi,Fatih
+13000,2,1,90,0,Ara Kat,Kocasinan,Şeker
+15000,2,1,130,3,1. Kat,Kocasinan,Şeker
+15000,3,1,150,15,14. Kat,Melikgazi,Esenyurt
+14495,1,1,60,0,5. Kat,Kocasinan,Gevhernesibe
+15000,3,1,165,0,Zemin,Talas,Mevlana
+11000,2,1,100,0,9. Kat,Talas,Mevlana
+11000,3,1,165,8,8. Kat,Melikgazi,Bahçelievler
+12000,3,1,155,11,7. Kat,Talas,Mevlana
+17500,4,1,175,0,5. Kat,Kocasinan,Ertuğrul Gazi
+26000,4,1,200,0,9. Kat,Kocasinan,Yakut
+12000,2,1,90,8,7. Kat,Talas,Mevlana
+16000,3,1,180,8,8. Kat,Kocasinan,Yakut
+9000,4,1,120,35,3. Kat,Kocasinan,Fevzi Çakmak
+10500,2,1,120,2,1. Kat,Kocasinan,Oymaağaç
+15500,3,1,175,8,Ara Kat,Melikgazi,Esentepe
+30000,4,1,220,21,2. Kat,Melikgazi,Alpaslan
+12500,3,1,165,11,10. Kat,Talas,Mevlana
+16500,3,1,175,11,7. Kat,Melikgazi,Yıldırım Beyazıt
+13000,3,1,145,0,5. Kat,Melikgazi,Şirintepe
+14000,1,1,55,4,7. Kat,Talas,Mevlana
+11000,3,1,155,5,9. Kat,Talas,Mevlana
+15000,3,1,170,10,9. Kat,Talas,Mevlana
+12000,3,1,140,35,3. Kat,Melikgazi,Gültepe
+16000,3,1,225,26,3. Kat,Kocasinan,Mimarsinan
+12500,2,1,100,0,2. Kat,Kocasinan,Ertuğrul Gazi
+13000,3,1,170,15,7. Kat,Melikgazi,Hürriyet
+7000,2,1,100,10,3. Kat,Develi,Feneseaşağı
+6500,2,1,100,21,2. Kat,Melikgazi,Gülük
+13500,2,1,100,0,1. Kat,Talas,Mevlana
+10000,2,1,120,1,Zemin,Kocasinan,Şeker
+12000,2,1,110,15,1. Kat,Develi,Feneseaşağı
+22000,2,1,100,0,7. Kat,Talas,Yenidoğan
+15000,3,1,175,5,2. Kat,Talas,Mevlana
+15000,3,1,165,0,6. Kat,Kocasinan,Yenidoğan
+14000,3,1,150,5,7. Kat,Kocasinan,Ertuğrul Gazi
+25000,2,1,100,4,3. Kat,Talas,Mevlana
+16000,4,1,187,5,13. Kat,Talas,Mevlana
+9000,4,1,120,25,2. Kat,Kocasinan,Yeni
+10000,3,1,165,16,Ara Kat,Melikgazi,Gesi Fatih
+12500,3,1,135,16,13. Kat,Talas,Mevlana
+10000,3,1,165,10,5. Kat,Melikgazi,Şirintepe
+12500,3,1,150,5,14. Kat,Talas,Mevlana
+13500,3,1,165,5,6. Kat,Talas,Mevlana
+14500,4,1,200,14,7. Kat,Kocasinan,Yenidoğan
+17500,3,1,175,4,6. Kat,Talas,Mevlana
+15750,3,1,180,11,8. Kat,Melikgazi,Battalgazi
+18800,4,1,185,0,6. Kat,Kocasinan,Ziyagökalp
+12000,3,1,160,5,2. Kat,Kocasinan,Yavuz Selim
+10000,2,1,90,5,2. Kat,Kocasinan,Şeker
+20000,4,1,220,10,7. Kat,Talas,Kiçiköy
+20000,1,1,75,2,Ara Kat,Kocasinan,Şeker
+13000,1,1,100,2,Ara Kat,Develi,Mustafa Asım Köksal
+12999,1,1,68,2,2. Kat,Kocasinan,Şeker
+10000,3,1,160,10,3. Kat,Kocasinan,Yunusemre
+6500,3,1,145,14,Zemin,Develi,Reşadiye
+12500,3,1,160,11,11. Kat,Melikgazi,Gesi Fatih
+12500,3,1,165,16,4. Kat,Kocasinan,Yenişehir
+7750,3,1,140,10,2. Kat,Develi,Mustafa Asım Köksal
+10500,3,1,140,21,3. Kat,Melikgazi,Hürriyet
+16000,3,1,150,16,12. Kat,Talas,Bahçelievler
+15000,3,1,140,0,2. Kat,Develi,Mustafa Asım Köksal
+11500,3,1,150,5,6. Kat,Talas,Mevlana
+18000,3,1,165,5,7. Kat,Talas,Yenidoğan
+8000,2,1,130,11,Zemin,Melikgazi,Kılıçaslan
+7000,3,1,145,7,10. Kat,Melikgazi,Şirintepe
+9000,3,1,120,325,Zemin,Kocasinan,Argıncık
+13500,3,1,155,30,2. Kat,Melikgazi,Kılıçaslan
+11000,3,1,155,11,6. Kat,Kocasinan,Ertuğrul Gazi
+12000,3,1,145,11,1. Kat,Kocasinan,Yunusemre
+12750,3,1,175,1,12. Kat,Kocasinan,Yunusemre
+20000,3,1,110,0,4. Kat,Talas,Kiçiköy
+18000,4,1,200,0,Kot 3,Melikgazi,Hürriyet
+15000,4,1,190,10,1. Kat,Talas,Mevlana
+13500,3,1,150,5,8. Kat,Talas,Mevlana
+15000,3,1,180,18,Ara Kat,Kocasinan,General Emir
+23000,2,1,120,2,4. Kat,Melikgazi,Bahçelievler
+9000,1,1,95,0,Yüksek Giriş,Develi,Aşık Seyrani
+17999,2,2,100,0,6. Kat,Melikgazi,Tacettin Veli
+12000,3,1,120,0,2. Kat,Develi,Reşadiye
+12500,2,1,90,3,2. Kat,Kocasinan,Şeker
+9500,3,1,150,21,1. Kat,Kocasinan,Fevzi Çakmak
+35000,4,1,285,5,6. Kat,Melikgazi,Gültepe
+12000,3,1,165,11,12. Kat,Talas,Mevlana
+20000,4,1,180,5,9. Kat,Kocasinan,Yakut
+15000,3,1,155,5,5. Kat,Kocasinan,Uğurevler
+13500,3,1,175,10,5. Kat,Kocasinan,Ertuğrul Gazi
+9000,3,1,135,16,8. Kat,Talas,Mevlana
+6000,3,1,120,25,1. Kat,Talas,Yenidoğan
+13000,3,1,150,5,3. Kat,Melikgazi,Bahçelievler
+14500,3,1,145,11,13. Kat,Melikgazi,Gesi Fatih
+13000,2,1,90,0,5. Kat,Kocasinan,Şeker
+17000,2,1,125,2,1. Kat,Talas,Mevlana
+11500,3,1,175,14,En Üst Kat,Talas,Mevlana
+8000,1,1,110,1,1. Kat,Melikgazi,Mimarsinan
+8000,2,1,110,31,2. Kat,Kocasinan,Sahabiye
+18500,3,1,150,0,12. Kat,Talas,Bahçelievler
+15000,3,1,165,4,3. Kat,Kocasinan,Osmangazi
+15000,3,1,175,7,6. Kat,Talas,Mevlana
+12000,3,1,120,28,Yüksek Giriş,Develi,Yeni
+17000,3,1,275,12,12. Kat,Talas,Mevlana
+13500,3,1,160,0,Zemin,Kocasinan,Ertuğrul Gazi
+30000,4,1,240,11,13. Kat,Kocasinan,Erciyesevler
+10000,3,1,120,7,En Üst Kat,Develi,Şehit Üsteğmen Hasan Şahan
+19000,4,1,220,3,2. Kat,Talas,Mevlana
+9000,3,1,130,0,Yüksek Giriş,Melikgazi,Mimarsinan
+16000,3,1,200,10,2. Kat,Melikgazi,Altınoluk
+10000,3,1,145,44,En Üst Kat,Melikgazi,Kılıçaslan
+14499,1,1,65,4,3. Kat,Kocasinan,Fevzi Çakmak
+11750,2,1,120,31,4. Kat,Kocasinan,Fevzi Çakmak
+8000,3,1,165,25,Zemin,Kocasinan,Osmangazi
+10000,4,0,150,12,5. Kat,Melikgazi,Gesi Fatih
+13500,3,1,165,5,4. Kat,Melikgazi,Gesi Fatih
+13000,1,1,80,0,Zemin,Talas,Bahçelievler
+11000,2,1,110,2,Ara Kat,Kocasinan,Şeker
+14000,1,1,60,0,2. Kat,Talas,Kiçiköy
+14000,3,1,120,0,1. Kat,Develi,Yeni
+13500,3,1,160,0,Zemin,Kocasinan,Ertuğrul Gazi
+13750,3,1,175,1,13. Kat,Kocasinan,Saray Bosna
+7000,3,0,120,30,Yarı Bodrum,Kocasinan,Sahabiye
+15000,3,1,165,5,3. Kat,Talas,Yenidoğan
+10500,3,1,155,10,7. Kat,Melikgazi,Fatih
+32000,4,1,280,11,8. Kat,Melikgazi,Alpaslan
+9250,3,1,145,20,Ara Kat,Kocasinan,Turgut Reis
+11999,1,1,60,0,11. Kat,Talas,Bahçelievler
+13000,2,1,100,3,3. Kat,Kocasinan,Sahabiye
+13000,3,1,160,5,4. Kat,Talas,Mevlana
+13000,3,1,155,12,En Üst Kat,Melikgazi,İldem Cumhuriyet
+14500,3,1,178,11,14. Kat,Talas,Mevlana
+18500,3,1,155,5,2. Kat,Develi,Şehit Üsteğmen Hasan Şahan
+20000,4,1,200,11,9. Kat,Talas,Bahçelievler
+15000,3,1,150,7,3. Kat,Kocasinan,Osmangazi
+25000,2,1,90,4,2. Kat,Talas,Mevlana
+13000,3,1,130,10,3. Kat,Talas,Mevlana
+9000,3,1,120,15,Zemin,Kocasinan,Zümrüt
+12000,2,1,110,2,3. Kat,Kocasinan,Osmangazi
+13500,4,1,220,45,5. Kat,Kocasinan,Sahabiye
+15000,4,1,190,17,5. Kat,Talas,Yenidoğan
+11000,3,1,145,20,4. Kat,Talas,Mevlana
+11000,2,1,120,26,2. Kat,Kocasinan,Osmangazi
+13500,4,1,210,5,3. Kat,Kocasinan,Yeşil
+16500,3,1,160,0,1. Kat,Melikgazi,Kılıçaslan
+9000,4,1,120,20,2. Kat,Kocasinan,Sümer
+13000,3,1,150,15,9. Kat,Kocasinan,Sancaktepe
+15000,2,1,95,0,Kot 2,Kocasinan,Şeker
+25000,2,1,110,1,7. Kat,Talas,Mevlana
+8000,2,1,110,1,2. Kat,Melikgazi,Mimarsinan OSB
+17000,3,1,175,0,10. Kat,Kocasinan,Zümrüt
+10500,1,1,60,4,7. Kat,Kocasinan,Şeker
+13500,3,1,154,12,3. Kat,Talas,Mevlana
+13000,3,1,125,10,Yüksek Giriş,Develi,Yeni
+12495,1,1,65,2,5. Kat,Kocasinan,Şeker
+24000,4,1,245,21,9. Kat,Melikgazi,Alpaslan
+10000,2,1,100,0,4. Kat,Kocasinan,Şeker
+11500,4,1,175,0,Yüksek Giriş,Develi,Aşık Seyrani
+12000,2,1,120,5,7. Kat,Melikgazi,Gesi Fatih
+16000,3,1,155,0,6. Kat,Talas,Bahçelievler
+14500,3,1,175,11,10. Kat,Talas,Mevlana
+9000,3,1,150,16,Zemin,Kocasinan,Sahabiye
+15000,3,1,185,11,1. Kat,Talas,Mevlana
+11000,3,1,175,10,12. Kat,Talas,Mevlana
+12500,3,1,165,40,4. Kat,Kocasinan,Mimarsinan
+11500,2,1,100,5,5. Kat,Kocasinan,Ahi Evran
+17000,4,1,200,5,7. Kat,Talas,Mevlana
+15000,3,1,155,5,2. Kat,Kocasinan,Fevzi Çakmak
+8500,3,1,135,25,12. Kat,Melikgazi,Şirintepe
+12000,3,1,110,20,3. Kat,Melikgazi,Selimiye
+17000,3,1,155,5,8. Kat,Talas,Mevlana
+12000,3,1,140,18,15. Kat,Talas,Mevlana
+11500,3,1,200,11,8. Kat,Kocasinan,Yenidoğan
+11000,3,1,175,5,12. Kat,Melikgazi,Fatih
+10000,2,1,100,0,Giriş Katı,Melikgazi,Mimarsinan
+18000,2,1,110,5,5. Kat,Talas,Mevlana
+38000,4,1,280,15,13. Kat,Melikgazi,Alpaslan
+8500,3,1,150,25,Kot 1,Kocasinan,Sahabiye
+14000,3,1,190,16,2. Kat,Bünyan,Dervişağa
+14000,2,1,100,3,9. Kat,Talas,Mevlana
+10000,3,1,135,17,1. Kat,Develi,Harman
+12000,3,1,155,5,14. Kat,Talas,Mevlana
+10500,3,1,185,10,4. Kat,Melikgazi,Fatih
+12000,3,1,140,0,Ara Kat,Develi,Harman
+10000,3,1,150,15,7. Kat,Melikgazi,Şirintepe
+15000,3,1,175,0,3. Kat,Melikgazi,Fatih
+12000,3,1,150,5,2. Kat,Kocasinan,Yavuzlar
+9000,2,1,100,0,Yüksek Giriş,Yeşilhisar,Karacabey
+17000,4,1,200,11,2. Kat,Melikgazi,Germir
+18500,3,1,180,17,14. Kat,Talas,Mevlana
+11000,3,1,135,11,1. Kat,Kocasinan,Beyazşehir
+12500,2,1,95,1,1. Kat,Talas,Mevlana
+14000,3,1,170,10,6. Kat,Melikgazi,Yıldırım Beyazıt
+13500,3,1,175,11,12. Kat,Talas,Yenidoğan
+30000,4,1,200,5,1. Kat,Talas,Bahçelievler
+55000,5,1,250,3,10. Kat,Melikgazi,Alpaslan
+7250,2,1,110,20,1. Kat,Kocasinan,Sahabiye
+14500,3,1,185,16,9. Kat,Talas,Mevlana
+3500,2,1,70,10,Çatı Katı,Melikgazi,Danişmend Gazi
+14500,2,1,115,5,1. Kat,Talas,Mevlana
+10000,3,1,135,11,3. Kat,Talas,Mevlana
+13750,3,1,160,5,11. Kat,Talas,Mevlana
+13000,2,1,100,0,8. Kat,Kocasinan,Şeker
+12750,3,1,165,2,6. Kat,Talas,Mevlana
+15000,3,1,170,9,11. Kat,Talas,Mevlana
+15000,3,1,150,2,7. Kat,Talas,Mevlana
+12000,3,1,150,20,1. Kat,Kocasinan,Beyazşehir
+13000,3,1,165,0,5. Kat,Melikgazi,Şirintepe
+12500,3,1,150,5,5. Kat,Kocasinan,Yeni
+12000,3,1,155,16,5. Kat,Kocasinan,Ahi Evran
+20000,4,1,158,2,4. Kat,Kocasinan,Yakut
+8500,2,1,130,22,5. Kat,Melikgazi,Gesi Fatih
+13500,3,1,150,11,8. Kat,Talas,Mevlana
+10750,3,1,165,11,5. Kat,Melikgazi,Gesi Fatih
+12500,3,1,135,4,2. Kat,Develi,Mustafa Asım Köksal
+15000,3,1,150,8,Ara Kat,Develi,Harman
+8000,3,1,130,26,3. Kat,Kocasinan,Fevzi Çakmak
+12000,3,1,100,0,4. Kat,Talas,Mevlana
+11000,3,1,100,2,Ara Kat,Develi,Yeni
+8500,2,1,140,35,1. Kat,Melikgazi,Aydınlıkevler
+17000,2,1,95,1,1. Kat,Talas,Bahçelievler
+15000,3,1,155,10,7. Kat,Talas,Mevlana
+11000,3,1,135,20,14. Kat,Talas,Mevlana
+13500,3,1,155,5,14. Kat,Talas,Mevlana
+17000,3,1,175,11,3. Kat,Kocasinan,Uğurevler
+28000,4,1,200,11,11. Kat,Melikgazi,Esenyurt
+12500,2,1,100,5,6. Kat,Talas,Mevlana
+13000,3,1,165,11,5. Kat,Talas,Mevlana
+13000,3,1,150,16,10. Kat,Talas,Mevlana
+20000,3,1,175,0,9. Kat,Talas,Mevlana
+26000,5,1,240,5,1. Kat,Kocasinan,Erciyesevler
+12000,3,1,165,8,13. Kat,Talas,Mevlana
+9000,2,1,120,0,3. Kat,Melikgazi,Mimarsinan
+15000,3,1,190,3,3. Kat,Melikgazi,Bahçelievler
+12000,1,1,70,4,1. Kat,Talas,Mevlana
+10000,3,1,160,15,9. Kat,Melikgazi,Şirintepe
+18000,3,1,160,16,8. Kat,Melikgazi,Köşk
+9000,3,1,130,16,8. Kat,Kocasinan,Yavuzlar
+10000,3,1,140,20,2. Kat,Kocasinan,Turgut Reis
+12000,3,1,160,21,2. Kat,Melikgazi,Sakarya
+11000,2,1,120,26,4. Kat,Kocasinan,Mevlana
+10000,3,1,170,16,3. Kat,Melikgazi,Hürriyet
+11500,3,1,165,25,1. Kat,Kocasinan,Mimarsinan
+13000,3,1,120,11,10. Kat,Talas,Mevlana
+12000,3,1,125,15,5. Kat,Melikgazi,Tınaztepe
+12500,3,1,135,16,1. Kat,Talas,Mevlana
+13000,2,1,110,0,12. Kat,Talas,Mevlana
+19500,4,1,185,4,5. Kat,Talas,Mevlana
+8000,2,1,120,31,Bodrum,Kocasinan,Fevzi Çakmak
+8000,2,1,100,11,9. Kat,Kocasinan,Barbaros
+15000,3,1,145,5,3. Kat,Talas,Mevlana
+12000,3,1,160,14,4. Kat,Talas,Yenidoğan
+10000,2,1,140,30,4. Kat,Kocasinan,Ziyagökalp
+25000,4,1,210,0,5. Kat,Talas,Mevlana
+11000,3,1,180,20,6. Kat,Melikgazi,Tacettin Veli
+12000,3,1,140,15,4. Kat,Talas,Mevlana
+15500,3,1,170,4,5. Kat,Kocasinan,Zümrüt
+10500,3,1,140,24,6. Kat,Kocasinan,Yıldızevler
+10000,3,1,145,12,Yüksek Giriş,Develi,Yeni
+13000,3,1,135,2,Ara Kat,Develi,Harman
+9000,2,1,100,15,2. Kat,Kocasinan,Sahabiye
+13000,3,1,165,16,3. Kat,Kocasinan,Barbaros
+12000,1,1,90,4,10. Kat,Talas,Mevlana
+13000,1,1,95,0,2. Kat,Talas,Bahçelievler
+12500,3,1,180,5,10. Kat,Talas,Mevlana
+15000,3,1,150,10,1. Kat,Talas,Bahçelievler
+14000,1,1,65,5,5. Kat,Talas,Mevlana
+11999,1,1,50,0,4. Kat,Talas,Bahçelievler
+12000,3,1,200,5,2. Kat,Bünyan,Dervişağa
+20000,4,1,180,0,Zemin,Kocasinan,Şeker
+14000,3,1,175,11,7. Kat,Talas,Bahçelievler
+7500,3,1,135,21,5. Kat,Melikgazi,Aydınlıkevler
+16000,3,1,165,0,7. Kat,Kocasinan,Seyrani
+9000,1,1,65,5,2. Kat,Talas,Tablakaya
+15000,2,1,125,2,9. Kat,Melikgazi,Anbar
+13500,3,1,160,11,5. Kat,Talas,Yenidoğan
+12000,3,1,150,5,10. Kat,Kocasinan,Turgut Reis
+12000,2,1,130,0,7. Kat,Kocasinan,Ertuğrul Gazi
+16000,3,1,185,11,8. Kat,Talas,Mevlana
+8500,2,1,100,0,Giriş Katı,Melikgazi,Mimarsinan
+20000,4,1,240,11,12. Kat,Melikgazi,Yıldırım Beyazıt
+9750,3,1,110,25,Teras Katı,Kocasinan,Sahabiye
+15000,4,1,140,24,2. Kat,Kocasinan,Gevhernesibe
+6000,2,1,130,35,2. Kat,Develi,Yeni
+21000,4,1,225,0,4. Kat,Kocasinan,Seyrani
+12000,1,1,80,5,2. Kat,Talas,Mevlana
+11000,2,1,110,7,En Üst Kat,Develi,Harman
+8000,3,1,110,25,1. Kat,Kocasinan,Yenidoğan
+11000,3,1,155,11,14. Kat,Talas,Mevlana
+16000,4,1,190,0,10. Kat,Kocasinan,Ertuğrul Gazi
+15500,4,1,205,0,10. Kat,Kocasinan,Yenidoğan
+20000,2,1,110,0,7. Kat,Talas,Bahçelievler
+15000,3,1,160,3,6. Kat,Kocasinan,Yenidoğan
+16000,3,1,160,0,6. Kat,Kocasinan,Hoca Ahmet Yesevi
+21000,3,1,178,9,4. Kat,Melikgazi,Köşk
+17000,3,1,175,11,4. Kat,Kocasinan,Yakut
+12000,3,1,120,21,8. Kat,Melikgazi,İldem Cumhuriyet
+16000,3,1,175,6,13. Kat,Talas,Mevlana
+17000,3,1,145,4,11. Kat,Talas,Mevlana
+11000,3,1,135,16,1. Kat,Kocasinan,Gevhernesibe
+9000,3,1,130,25,9. Kat,Kocasinan,Beyazşehir
+9000,3,1,120,21,2. Kat,Talas,Mevlana
+8000,3,1,110,21,2. Kat,Bünyan,Dervişağa
+6500,2,1,135,31,1. Kat,Kocasinan,Fevzi Çakmak
+9000,3,1,132,7,Ara Kat,Melikgazi,Demokrasi
+14000,3,1,175,5,4. Kat,Talas,Mevlana
+9000,3,1,125,21,3. Kat,Kocasinan,Fevzi Çakmak
+14500,3,1,165,0,10. Kat,Kocasinan,Ertuğrul Gazi
+13000,3,1,150,0,7. Kat,Kocasinan,Erkilet
+15000,4,1,185,11,1. Kat,Kocasinan,Mimarsinan
+14750,3,1,180,5,9. Kat,Kocasinan,Hoca Ahmet Yesevi
+12500,3,1,130,11,14. Kat,Melikgazi,Gülük
+15000,2,1,120,1,2. Kat,Kocasinan,Şeker
+8500,2,1,110,3,2. Kat,Kocasinan,Şeker
+15000,4,1,190,5,9. Kat,Kocasinan,Ertuğrul Gazi
+11000,3,1,150,16,2. Kat,Talas,Mevlana
+25000,4,1,185,2,5. Kat,Talas,Mevlana
+8000,3,1,120,38,2. Kat,Kocasinan,Sahabiye
+10000,3,1,130,6,1. Kat,Develi,Mustafa Asım Köksal
+16000,3,1,165,5,8. Kat,Kocasinan,Barbaros
+12500,3,1,165,4,8. Kat,Melikgazi,Şirintepe
+11999,1,1,55,0,10. Kat,Talas,Bahçelievler
+20000,2,1,130,20,Ara Kat,Melikgazi,Hunat
+13000,3,1,165,5,3. Kat,Melikgazi,Gesi Fatih
+12000,3,1,150,3,Ara Kat,Develi,Reşadiye
+9000,2,1,135,26,Giriş Katı,Melikgazi,Kılıçaslan
+13500,3,1,175,0,2. Kat,Kocasinan,Ertuğrul Gazi
+11000,3,1,120,16,7. Kat,Melikgazi,İldem Cumhuriyet
+18000,3,1,180,35,6. Kat,Melikgazi,Alpaslan
+19500,4,1,190,7,4. Kat,Kocasinan,Yakut
+20000,3,1,175,5,10. Kat,Talas,Mevlana
+12000,2,1,110,0,2. Kat,Talas,Mevlana
+13500,3,1,125,5,Kot 1,Develi,Harman
+13000,3,1,145,11,7. Kat,Talas,Yenidoğan
+16000,4,1,185,5,1. Kat,Melikgazi,Yeşilyurt
+10000,3,1,150,16,2. Kat,Melikgazi,Battalgazi
+14000,3,1,145,17,Zemin,Talas,Yenidoğan
+18000,3,1,165,0,2. Kat,Talas,Bahçelievler
+13000,2,1,90,0,5. Kat,Kocasinan,Şeker
+25000,4,1,240,16,6. Kat,Melikgazi,Alpaslan
+9000,3,1,110,0,Yüksek Giriş,Melikgazi,Mimarsinan
+10000,3,1,165,10,8. Kat,Melikgazi,Bahçelievler
+15000,3,1,180,2,12. Kat,Kocasinan,Saray Bosna
+10500,3,1,170,10,Ara Kat,Develi,İbrahimağa
+14000,3,1,155,11,11. Kat,Talas,Tablakaya
+12000,2,1,95,16,2. Kat,Kocasinan,Mevlana
+11000,2,1,110,0,4. Kat,Melikgazi,Mimarsinan
+13500,2,1,110,3,8. Kat,Kocasinan,Sahabiye
+12000,1,0,65,1,8. Kat,Develi,Feneseaşağı
+13000,3,1,200,28,Ara Kat,Develi,Harman
+16000,3,1,185,11,3. Kat,Talas,Bahçelievler
+9000,3,1,165,21,Zemin,Kocasinan,Mevlana
+15500,3,1,130,35,3. Kat,Kocasinan,Fevzi Çakmak
+14000,3,1,165,15,7. Kat,Talas,Mevlana
+12000,4,1,185,26,2. Kat,Bünyan,Dervişağa
+9500,3,1,110,25,4. Kat,Talas,Yenidoğan
+11499,1,1,50,0,8. Kat,Talas,Bahçelievler
+9000,3,1,140,12,3. Kat,Develi,Yeni
+12000,2,1,100,16,4. Kat,Melikgazi,Hunat
+16000,3,1,185,15,8. Kat,Talas,Mevlana
+25000,3,1,175,11,6. Kat,Melikgazi,Alpaslan
+13000,1,1,90,0,2. Kat,Talas,Bahçelievler
+21000,3,1,175,11,6. Kat,Talas,Bahçelievler
+12500,3,1,165,7,9. Kat,Talas,Mevlana
+96000,2,1,108,1,Kot 2,Melikgazi,Tavlusun
+13500,3,1,155,11,3. Kat,Talas,Mevlana
+17000,3,1,175,5,5. Kat,Kocasinan,Sancaktepe
+20000,3,1,185,4,9. Kat,Talas,Mevlana
+15500,3,1,160,0,4. Kat,Kocasinan,Talatpaşa
+10000,2,1,115,0,1. Kat,Develi,Yeni
+9000,3,1,150,26,1. Kat,Kocasinan,Mimarsinan
+13000,2,1,85,1,En Üst Kat,Develi,Mustafa Asım Köksal
+9000,3,1,130,15,Yüksek Giriş,Melikgazi,Demokrasi
+18500,3,1,145,0,6. Kat,Talas,Bahçelievler
+16000,3,1,145,1,2. Kat,Develi,Yeni
+18000,4,1,220,0,4. Kat,Kocasinan,Yunusemre
+19000,3,1,170,5,3. Kat,Melikgazi,Yıldırım Beyazıt
+16000,4,1,160,4,Ara Kat,Talas,Yenidoğan
+17000,3,1,170,11,6. Kat,Melikgazi,Gültepe
+12000,3,1,140,31,Yüksek Giriş,Kocasinan,Sahabiye
+9500,3,1,140,15,8. Kat,Melikgazi,Şirintepe
+17500,2,1,100,3,2. Kat,Kocasinan,Şeker
+9999,3,1,125,0,3. Kat,Melikgazi,Mimarsinan
+7500,2,1,104,31,Zemin,Kocasinan,Fevzi Çakmak
+12500,2,1,110,4,3. Kat,Talas,Mevlana
+12500,3,1,165,6,1. Kat,Talas,Mevlana
+25000,3,1,185,0,13. Kat,Kocasinan,Alsancak
+11000,4,1,220,16,Ara Kat,Develi,Bahçelievler
+9000,2,1,110,0,2. Kat,Melikgazi,Mimarsinan
+13000,3,1,165,16,2. Kat,Kocasinan,Fevzi Çakmak
+11500,2,1,100,0,9. Kat,Talas,Mevlana
+13000,3,1,150,14,12. Kat,Melikgazi,19 Mayıs
+14000,2,1,125,5,1. Kat,Talas,Yenidoğan
+12000,3,1,160,21,3. Kat,Kocasinan,Fevzi Çakmak
+15000,3,1,165,1,3. Kat,Kocasinan,Oruçreis
+13000,3,1,165,5,4. Kat,Talas,Mevlana
+15000,3,1,135,1,7. Kat,Talas,Mevlana
+25000,4,1,245,5,1. Kat,Kocasinan,Barbaros
+9000,2,1,125,21,Yüksek Giriş,Kocasinan,Mevlana
+9500,2,1,125,16,2. Kat,Talas,Bahçelievler
+8500,2,1,115,4,En Üst Kat,Develi,Güneyaşağı
+14500,3,1,175,5,12. Kat,Melikgazi,Aydınlıkevler
+16500,3,1,196,21,8. Kat,Melikgazi,Alpaslan
+15000,4,1,185,2,2. Kat,Kocasinan,Osmangazi
+33000,5,2,450,21,14. Kat,Melikgazi,Alpaslan
+11500,3,1,130,0,Ara Kat,Develi,Aşık Seyrani
+13000,4,1,220,3,4. Kat,Melikgazi,Fatih
+13500,3,1,165,10,14. Kat,Talas,Mevlana
+15999,3,1,165,0,10. Kat,Kocasinan,Zümrüt
+12450,2,1,110,0,7. Kat,Talas,Mevlana
+10500,3,1,155,5,7. Kat,Melikgazi,Fatih
+7000,2,1,110,7,3. Kat,Develi,Bahçebaşı
+13000,3,1,175,31,3. Kat,Melikgazi,Alpaslan
+13000,1,1,75,8,3. Kat,Talas,Mevlana
+11000,3,1,165,12,4. Kat,Kocasinan,Hoca Ahmet Yesevi
+13000,2,1,105,0,Ara Kat,Develi,Harman
+35000,4,1,200,1,2. Kat,Talas,Bahçelievler
+10000,2,1,120,1,3. Kat,Kocasinan,Erkilet
+7000,3,1,140,10,7. Kat,Talas,Yenidoğan
+13500,3,1,175,11,6. Kat,Kocasinan,Seyrani
+17000,3,1,180,11,13. Kat,Melikgazi,Yıldırım Beyazıt
+21000,3,1,170,0,5. Kat,Melikgazi,Gökkent
+11000,2,1,85,1,Yüksek Giriş,Develi,Aşık Seyrani
+13000,3,1,135,16,2. Kat,Talas,Mevlana
+11000,2,1,100,0,7. Kat,Kocasinan,Şeker
+10000,3,1,155,7,9. Kat,Kocasinan,Şeker
+12500,3,1,150,11,12. Kat,Melikgazi,19 Mayıs
+9500,2,1,125,24,2. Kat,Kocasinan,Osmangazi
+10000,2,1,110,26,4. Kat,Melikgazi,Gülük
+16000,2,1,120,0,11. Kat,Talas,Harman
+12000,3,1,120,0,Kot 3,Kocasinan,General Emir
+8500,3,1,120,16,6. Kat,Melikgazi,Anafartalar
+13000,2,1,90,0,Ara Kat,Kocasinan,Şeker
+17999,3,1,145,15,4. Kat,Talas,Bahçelievler
+13000,3,1,175,0,14. Kat,Kocasinan,Mithatpaşa
+28000,4,1,210,4,8. Kat,Kocasinan,Alsancak
+12000,4,1,145,0,10. Kat,Melikgazi,Yeşilyurt
+18000,3,1,165,5,10. Kat,Talas,Yenidoğan
+10000,2,1,120,10,6. Kat,Melikgazi,Bahçelievler
+15000,3,1,140,11,4. Kat,Kocasinan,Sancaktepe
+7250,2,1,110,20,5. Kat,Kocasinan,Kocasinan
+5500,3,1,90,21,Bodrum,Melikgazi,Esenyurt
+25000,4,1,225,1,1. Kat,Kocasinan,Yakut
+12500,3,1,170,1,7. Kat,Melikgazi,Şirintepe
+10000,3,1,130,0,En Üst Kat,Develi,Aşık Seyrani
+17000,3,1,185,0,5. Kat,Kocasinan,Mithatpaşa
+12450,2,1,110,0,7. Kat,Talas,Mevlana
+12000,3,1,165,16,1. Kat,Kocasinan,Osmangazi
+11500,3,1,170,11,6. Kat,Kocasinan,Ertuğrul Gazi
+6000,3,1,120,31,Yüksek Giriş,Kocasinan,Sahabiye
+13500,2,1,125,0,10. Kat,Talas,Mevlana
+14000,2,1,115,0,3. Kat,Kocasinan,Ertuğrul Gazi
+12000,3,1,130,26,2. Kat,Melikgazi,Kılıçaslan
+12000,3,1,145,11,5. Kat,Melikgazi,Bahçelievler
+12000,2,1,100,11,2. Kat,Talas,Yenidoğan
+7000,3,1,150,29,1. Kat,Kocasinan,Fevzi Çakmak
+10500,3,1,130,15,6. Kat,Kocasinan,Beyazşehir
+13000,3,1,135,31,3. Kat,Melikgazi,Hunat
+13000,3,1,155,11,5. Kat,Melikgazi,İldem Cumhuriyet
+15000,4,1,180,15,8. Kat,Talas,Mevlana
+9000,2,1,105,11,Bahçe Katı,Melikgazi,Demokrasi
+13000,3,1,165,3,1. Kat,Kocasinan,Erkilet
+10000,3,1,130,11,Yüksek Giriş,Kocasinan,Osmangazi
+13000,3,1,120,0,1. Kat,Kocasinan,Şeker
+12000,3,1,145,20,3. Kat,Talas,Mevlana
+14000,3,1,175,1,9. Kat,Kocasinan,Osmangazi
+13495,1,0,45,1,5. Kat,Kocasinan,Gevhernesibe
+13000,1,1,60,0,1. Kat,Talas,Bahçelievler
+800,2,1,75,10,Kot 3,Melikgazi,Tacettin Veli
+26000,3,1,150,3,4. Kat,Melikgazi,Yeniköy
+19000,4,1,240,16,4. Kat,Melikgazi,Köşk
+11000,1,1,65,2,1. Kat,Talas,Mevlana
+9500,2,1,110,5,5. Kat,Kocasinan,Şeker
+5000,2,1,100,10,Yarı Bodrum,Develi,Aşık Seyrani
+8500,2,1,90,0,4. Kat,Melikgazi,Mimarsinan
+14000,1,1,80,11,4. Kat,Talas,Mevlana
+8500,3,1,165,40,7. Kat,Melikgazi,Gülük
+20000,3,1,175,0,9. Kat,Kocasinan,Hoca Ahmet Yesevi
+19000,3,1,155,5,10. Kat,Talas,Mevlana
+8000,3,1,125,25,1. Kat,Develi,Yeni
+10000,3,1,145,11,4. Kat,Melikgazi,Demokrasi
+13000,3,1,170,9,12. Kat,Talas,Mevlana
+12000,4,1,170,1,9. Kat,Melikgazi,Yeşilyurt
+15500,4,1,220,6,4. Kat,Develi,Alpaslan
+15000,3,1,175,0,9. Kat,Kocasinan,Mithatpaşa
+7500,3,1,150,25,Çatı Katı,Kocasinan,Gevhernesibe
+14000,2,1,110,0,3. Kat,Talas,Mevlana
+11000,3,1,170,10,3. Kat,Talas,Mevlana
+15000,3,1,175,15,4. Kat,Melikgazi,Battalgazi
+10000,3,1,140,25,2. Kat,Melikgazi,Aydınlıkevler
+18000,3,1,175,10,3. Kat,Talas,Bahçelievler
+9000,3,1,135,30,2. Kat,Kocasinan,Sahabiye
+12000,3,1,140,26,7. Kat,Melikgazi,Esentepe
+10000,2,1,100,5,2. Kat,Kocasinan,Şeker
+12000,3,1,120,26,3. Kat,Kocasinan,Fevzi Çakmak
+5000,2,1,120,40,2. Kat,Kocasinan,Sahabiye
+13000,3,1,170,26,3. Kat,Melikgazi,Hürriyet
+13000,1,1,75,5,10. Kat,Talas,Mevlana
+13000,3,1,155,5,6. Kat,Melikgazi,Bahçelievler
+13000,3,1,140,2,4. Kat,Develi,Aşık Seyrani
+15000,3,1,165,5,1. Kat,Kocasinan,Yavuz Selim
+8750,2,1,90,11,3. Kat,Melikgazi,Demokrasi
+12000,3,1,145,11,12. Kat,Talas,Mevlana
+13500,3,1,150,0,3. Kat,Kocasinan,Şeker
+22000,4,1,200,11,7. Kat,Kocasinan,Barbaros
+19000,4,1,225,1,8. Kat,Kocasinan,Zümrüt
+12999,1,1,60,0,1. Kat,Talas,Bahçelievler
+27000,3,1,200,21,12. Kat,Melikgazi,Alpaslan
+12500,4,1,185,0,10. Kat,Melikgazi,Yeşilyurt
+18500,2,1,100,4,3. Kat,Talas,Tablakaya
+10000,3,1,150,11,4. Kat,Melikgazi,İldem Cumhuriyet
+12000,3,1,150,15,3. Kat,Melikgazi,Esenyurt
+23000,3,1,195,11,8. Kat,Talas,Tablakaya
+18000,3,1,185,6,5. Kat,Melikgazi,Esenyurt
+14000,3,1,175,5,7. Kat,Talas,Mevlana
+13000,3,1,140,14,10. Kat,Kocasinan,Turgut Reis
+13000,3,0,90,0,4. Kat,Kocasinan,Şeker
+250000,3,1,175,4,4. Kat,Talas,Mevlana
+13000,3,1,140,2,2. Kat,Develi,Aşık Seyrani
+12000,3,1,130,5,4. Kat,Melikgazi,Gesi Fatih
+6000,3,1,140,25,1. Kat,Yeşilhisar,Karacabey
+25000,2,1,115,2,4. Kat,Talas,Bahçelievler
+18000,3,1,160,0,12. Kat,Talas,Bahçelievler
+13000,1,1,75,5,2. Kat,Talas,Tablakaya
+699,2,1,60,7,Ara Kat,Talas,Mevlana
+13000,3,1,155,5,8. Kat,Talas,Mevlana
+25000,4,1,200,0,11. Kat,Kocasinan,Beyazşehir
+15000,3,1,165,11,11. Kat,Talas,Mevlana
+10000,3,1,135,16,3. Kat,Develi,İbrahimağa
+9000,3,1,145,10,Ara Kat,Develi,Mustafa Asım Köksal
+14000,2,1,120,0,1. Kat,Talas,Mevlana
+12999,1,1,60,0,2. Kat,Talas,Harman
+14000,3,1,185,5,8. Kat,Talas,Mevlana
+10000,3,1,145,21,6. Kat,Talas,Mevlana
+8000,2,1,110,26,Zemin,Melikgazi,Aydınlıkevler
+11500,3,1,135,11,10. Kat,Talas,Mevlana
+14000,2,1,90,6,4. Kat,Talas,Mevlana
+20000,3,1,155,5,10. Kat,Talas,Mevlana
+17000,3,1,155,5,3. Kat,Kocasinan,Seyrani
+14000,3,1,130,1,3. Kat,Develi,Mustafa Asım Köksal
+10500,3,1,135,25,10. Kat,Talas,Mevlana
+15000,3,1,165,0,10. Kat,Kocasinan,Yavuzlar
+12000,2,1,120,16,2. Kat,Bünyan,Dervişağa
+13000,2,1,95,5,2. Kat,Talas,Kiçiköy
+10000,2,1,90,4,2. Kat,Melikgazi,Demokrasi
+14000,4,1,165,16,8. Kat,Melikgazi,Yıldırım Beyazıt
+12000,3,1,120,0,2. Kat,Develi,Aşık Seyrani
+12000,3,1,120,34,3. Kat,Kocasinan,Yenişehir
+27000,4,1,235,12,Ara Kat,Melikgazi,Köşk
+15000,3,1,185,5,5. Kat,Talas,Yenidoğan
+10000,3,1,130,31,3. Kat,Melikgazi,Kılıçaslan
+14000,2,1,60,1,1. Kat,Talas,Mevlana
+9500,3,1,140,21,Yüksek Giriş,Kocasinan,Mevlana
+16000,2,1,125,1,12. Kat,Talas,Mevlana
+8000,1,1,75,26,3. Kat,Melikgazi,Alpaslan
+11000,3,1,180,26,3. Kat,Kocasinan,Sahabiye
+6000,2,1,110,30,1. Kat,Yeşilhisar,İdris
+20000,3,1,175,5,4. Kat,Talas,Mevlana
+699,2,1,50,7,Ara Kat,Talas,Mevlana
+18000,3,1,175,11,4. Kat,Melikgazi,Yıldırım Beyazıt
+9000,3,1,130,50,Kot 2,Talas,Yenidoğan
+11998,1,1,55,0,12. Kat,Talas,Bahçelievler
+13000,3,1,165,5,11. Kat,Talas,Mevlana
+5800,2,1,110,26,Zemin,Melikgazi,Aydınlıkevler
+12500,3,1,165,5,2. Kat,Kocasinan,Cırgalan
+8750,3,1,132,11,5. Kat,Melikgazi,Demokrasi
+22000,3,1,150,0,6. Kat,Talas,Bahçelievler
+15000,2,1,100,0,5. Kat,Kocasinan,Şeker
+11500,3,1,140,0,3. Kat,Develi,Aşık Seyrani
+10000,2,1,100,15,Yüksek Giriş,Melikgazi,Osmanlı
+8500,3,1,150,15,4. Kat,Talas,Mevlana
+14000,3,1,165,7,4. Kat,Melikgazi,Bahçelievler
+12000,3,1,130,14,8. Kat,Kocasinan,Yeşil
+18000,4,1,230,5,6. Kat,Kocasinan,Yenişehir
+13500,3,1,150,20,7. Kat,Kocasinan,Gevhernesibe
+120000,3,1,130,25,3. Kat,Kocasinan,Mimarsinan
+11500,3,1,150,8,9. Kat,Melikgazi,Bahçelievler
+9800,3,1,150,11,8. Kat,Melikgazi,Tacettin Veli
+11500,3,1,155,20,11. Kat,Talas,Mevlana
+12000,3,1,140,5,3. Kat,Melikgazi,Şirintepe
+10500,3,1,130,0,4. Kat,Develi,Harman
+13000,2,1,100,10,Yüksek Giriş,Talas,Mevlana
+14000,3,1,155,5,1. Kat,Talas,Mevlana
+11500,2,1,80,4,5. Kat,Talas,Mevlana
+2000,3,1,120,15,Kot 2,Develi,Fatih
+12500,2,1,115,0,2. Kat,Develi,Yeni
+12000,3,1,160,2,9. Kat,Melikgazi,Fatih
+15500,4,1,200,16,7. Kat,Kocasinan,Erciyesevler
+14500,3,1,175,0,3. Kat,Kocasinan,Ziyagökalp
+20500,4,1,185,6,2. Kat,Talas,Mevlana
+14000,3,1,185,5,10. Kat,Kocasinan,Ertuğrul Gazi
+16000,3,1,160,16,3. Kat,Melikgazi,Gültepe
+13500,3,1,165,16,2. Kat,Melikgazi,Hürriyet
+13000,3,1,145,0,3. Kat,Develi,Harman
+12250,2,1,120,0,7. Kat,Talas,Mevlana
+16000,3,1,175,5,4. Kat,Talas,Yenidoğan
+7000,1,1,135,25,Giriş Katı,Kocasinan,Fevzi Çakmak
+12000,3,1,165,14,8. Kat,Melikgazi,Demokrasi
+13000,3,1,120,4,2. Kat,Kocasinan,Şeker
+6000,3,1,150,25,1. Kat,Yeşilhisar,Karacabey
+14750,2,1,97,1,4. Kat,Kocasinan,Şeker
+11000,3,1,150,16,1. Kat,Kocasinan,Gevhernesibe
+11500,2,1,110,0,2. Kat,Kocasinan,Osmangazi
+12000,3,1,155,11,9. Kat,Melikgazi,Gesi Fatih
+12500,3,1,135,6,2. Kat,Develi,Harman
+11000,3,1,130,21,2. Kat,Talas,Yenidoğan
+9500,3,1,160,26,2. Kat,Kocasinan,Fevzi Çakmak
+18500,3,1,175,4,2. Kat,Talas,Mevlana
+18000,3,1,175,5,3. Kat,Melikgazi,Yıldırım Beyazıt
+14000,2,1,120,1,14. Kat,Talas,Mevlana
+17500,3,1,122,0,8. Kat,Kocasinan,Yavuzlar
+12500,3,1,170,22,8. Kat,Melikgazi,Germir
+12000,3,1,135,31,Yüksek Giriş,Kocasinan,Ziyagökalp
+10250,3,1,145,0,4. Kat,Develi,Mehmet Akif Ersoy
+12000,3,1,165,16,7. Kat,Talas,Bahçelievler
+8000,3,1,130,20,En Üst Kat,Develi,Alpaslan
+14000,3,1,170,4,13. Kat,Talas,Mevlana
+12000,3,1,145,31,6. Kat,Kocasinan,Sahabiye
+13000,2,1,200,5,3. Kat,Kocasinan,Şeker
+10000,3,1,120,21,2. Kat,Melikgazi,Yeniköy
+11500,3,1,130,16,6. Kat,Melikgazi,Kocatepe
+12000,2,1,130,20,7. Kat,Melikgazi,Kılıçaslan
+14000,1,1,60,5,3. Kat,Talas,Mevlana
+16000,2,1,110,5,13. Kat,Talas,Mevlana
+15000,3,1,175,0,4. Kat,Kocasinan,Osmangazi
+13000,3,1,160,1,7. Kat,Kocasinan,Mithatpaşa
+10000,3,1,125,8,5. Kat,Develi,Reşadiye
+11000,3,1,165,5,10. Kat,Melikgazi,Anbar
+8000,3,1,125,35,1. Kat,Melikgazi,Aydınlıkevler
+11000,3,1,175,16,12. Kat,Talas,Mevlana
+15000,3,1,175,26,10. Kat,Kocasinan,Sahabiye
+12000,2,1,110,5,5. Kat,Kocasinan,Ahi Evran
+22000,3,1,175,0,5. Kat,Kocasinan,Yakut
+14000,3,1,135,5,2. Kat,Talas,Yenidoğan
+8000,4,1,160,26,Çatı Katı,Kocasinan,Fevzi Çakmak
+11000,3,1,130,31,3. Kat,Talas,Kiçiköy
+9000,2,1,95,35,Zemin,Melikgazi,Esenyurt
+15000,3,1,180,0,1. Kat,Kocasinan,Sancaktepe
+16000,3,1,175,5,2. Kat,Kocasinan,Mevlana
+21000,3,1,180,5,9. Kat,Talas,Mevlana
+11000,3,1,130,6,1. Kat,Develi,Mustafa Asım Köksal
+15500,3,1,165,11,7. Kat,Melikgazi,Esenyurt
+15000,3,1,150,8,11. Kat,Talas,Mevlana
+15000,2,1,110,1,3. Kat,Kocasinan,Şeker
+10000,3,1,145,8,5. Kat,Develi,Reşadiye
+15000,3,1,170,5,2. Kat,Melikgazi,Gesi Fatih
+13500,3,1,125,0,3. Kat,Develi,Yeni
+12000,1,1,60,6,8. Kat,Talas,Mevlana
+10500,2,1,110,26,3. Kat,Melikgazi,Osman Kavuncu
+9000,3,1,170,15,2. Kat,Melikgazi,Kıranardı
+16000,2,1,110,4,2. Kat,Talas,Mevlana
+12000,3,1,175,21,5. Kat,Kocasinan,Mimarsinan
+12500,3,1,150,26,5. Kat,Melikgazi,Kılıçaslan
+15500,2,1,115,2,1. Kat,Talas,Mevlana
+13000,3,1,160,11,12. Kat,Talas,Mevlana
+10000,2,1,110,16,Zemin,Kocasinan,Sahabiye
+16500,3,1,170,11,2. Kat,Talas,Yenidoğan
+8000,3,1,185,15,Yüksek Giriş,Develi,Bahçelievler
+10000,3,1,155,2,Yüksek Giriş,Kocasinan,Şeker
+21000,4,1,200,5,Ara Kat,Talas,Mevlana
+12000,3,1,165,11,9. Kat,Melikgazi,Gesi Fatih
+12500,3,1,135,21,9. Kat,Kocasinan,Beyazşehir
+13000,3,1,165,4,4. Kat,Melikgazi,Bahçelievler
+12000,3,1,132,8,Giriş Katı,Melikgazi,İldem Cumhuriyet
+16998,2,1,100,1,5. Kat,Melikgazi,Tacettin Veli
+23000,3,1,175,1,10. Kat,Talas,Mevlana
+15000,2,1,158,0,7. Kat,Kocasinan,Şeker
+16000,3,1,210,11,6. Kat,Melikgazi,Yıldırım Beyazıt
+12000,2,1,100,31,2. Kat,Talas,Bahçelievler
+15000,3,1,170,5,7. Kat,Melikgazi,Demokrasi
+11000,3,1,165,16,14. Kat,Talas,Mevlana
+12000,3,1,145,23,3. Kat,Melikgazi,30 Ağustos
+12500,2,1,110,0,1. Kat,Kocasinan,Şeker
+35000,4,1,180,3,12. Kat,Melikgazi,Gültepe
+8000,2,1,110,17,3. Kat,Develi,Harman
+13000,3,1,165,0,6. Kat,Melikgazi,Bahçelievler
+14000,2,1,110,0,5. Kat,Talas,Mevlana
+18000,3,1,165,5,8. Kat,Kocasinan,Barbaros
+8000,3,1,150,31,3. Kat,Kocasinan,Fevzi Çakmak
+13500,3,1,90,1,Kot 2,Melikgazi,Şirintepe
+20000,3,1,165,11,10. Kat,Talas,Bahçelievler
+10000,3,1,120,11,3. Kat,Melikgazi,Demokrasi
+20000,4,1,220,11,7. Kat,Talas,Bahçelievler
+12500,3,1,154,3,1. Kat,Kocasinan,Yunusemre
+8100,3,1,150,21,1. Kat,Kocasinan,Fevzi Çakmak
+10000,3,1,143,25,5. Kat,Talas,Yenidoğan
+12000,4,1,140,15,8. Kat,Melikgazi,İldem Cumhuriyet
+12000,3,1,150,11,1. Kat,Melikgazi,Bahçelievler
+13000,2,1,120,0,8. Kat,Talas,Mevlana
+15000,3,1,160,10,8. Kat,Talas,Yenidoğan
+17999,2,1,100,0,5. Kat,Melikgazi,Tacettin Veli
+12500,3,0,100,1,5. Kat,Kocasinan,Şeker
+13500,2,1,80,0,8. Kat,Kocasinan,Şeker
+12500,3,1,155,11,6. Kat,Talas,Mevlana
+9000,3,1,150,13,8. Kat,Kocasinan,Ahi Evran
+14750,2,1,95,5,10. Kat,Talas,Mevlana
+12000,3,1,165,10,Yüksek Giriş,Talas,Mevlana
+18000,3,1,185,11,6. Kat,Melikgazi,Köşk
+35000,5,1,224,4,8. Kat,Kocasinan,Yıldızevler
+14000,3,1,160,15,5. Kat,Melikgazi,Alpaslan
+12500,3,1,140,8,2. Kat,Develi,Camiicedit
+8750,2,1,110,0,1. Kat,Melikgazi,Mimarsinan
+35000,4,1,230,12,9. Kat,Melikgazi,Köşk
+15000,4,1,165,15,Ara Kat,Kocasinan,Gevhernesibe
+10000,2,1,110,2,3. Kat,Melikgazi,Tavlusun
+23000,2,1,120,0,3. Kat,Talas,Yenidoğan
+15000,3,1,150,9,12. Kat,Talas,Mevlana
+12499,3,1,180,11,1. Kat,Melikgazi,Yeniköy
+21000,3,1,200,7,5. Kat,Talas,Yenidoğan
+20000,4,1,200,1,10. Kat,Kocasinan,Seyrani
+15000,4,1,180,3,13. Kat,Kocasinan,Osmangazi
+14500,3,1,160,11,10. Kat,Talas,Mevlana
+15000,3,1,160,16,3. Kat,Melikgazi,Esenyurt
+12000,3,1,170,15,6. Kat,Kocasinan,Ertuğrul Gazi
+20000,3,1,140,30,Ara Kat,Melikgazi,Alpaslan
+18500,2,1,100,5,Zemin,Talas,Mevlana
+13000,2,1,145,11,10. Kat,Kocasinan,Camiikebir
+10000,3,1,135,11,2. Kat,Talas,Yenidoğan
+17000,3,3,110,10,Yüksek Giriş,Kocasinan,Mevlana
+15000,3,1,165,8,2. Kat,Melikgazi,Gesi Fatih
+13000,3,1,105,1,3. Kat,Develi,Aşık Seyrani
+15000,3,1,180,40,6. Kat,Melikgazi,Kılıçaslan
+12000,1,1,90,3,6. Kat,Talas,Tablakaya
+13500,4,1,220,31,10. Kat,Kocasinan,Erciyesevler
+7000,2,1,120,30,1. Kat,Kocasinan,Sahabiye
+15000,2,1,85,1,1. Kat,Kocasinan,Şeker
+18000,3,1,200,12,7. Kat,Melikgazi,Köşk
+15500,3,1,175,0,9. Kat,Kocasinan,Mithatpaşa
+120000,3,1,130,21,3. Kat,Kocasinan,Mimarsinan
+15000,2,1,110,10,2. Kat,Talas,Bahçelievler
+12000,3,1,140,15,8. Kat,Melikgazi,Gesi
+13000,3,1,160,1,5. Kat,Melikgazi,Yıldırım Beyazıt
+10000,2,1,120,26,5. Kat,Kocasinan,Kocasinan
+14000,2,1,125,0,13. Kat,Talas,Mevlana
+10000,2,1,120,0,Kot 3,Melikgazi,Mimarsinan OSB
+14749,2,1,100,11,4. Kat,Melikgazi,Gülük
+14990,3,1,170,4,8. Kat,Kocasinan,Osmangazi
+17000,4,1,165,30,2. Kat,Kocasinan,Gevhernesibe
+10000,4,1,160,30,4. Kat,Melikgazi,Battalgazi
+14750,3,1,130,0,9. Kat,Kocasinan,Şeker
+7000,2,1,110,8,1. Kat,Develi,Bahçebaşı
+14250,4,1,220,30,5. Kat,Melikgazi,Subaşı
+22000,3,1,175,0,11. Kat,Talas,Mevlana
+16000,3,1,180,0,6. Kat,Melikgazi,Yeşilyurt
+10000,3,1,130,12,2. Kat,Develi,Reşadiye
+50000,5,1,350,11,4. Kat,Melikgazi,Köşk
+12000,1,1,90,3,14. Kat,Talas,Mevlana
+15000,3,1,124,31,3. Kat,Talas,Bahçelievler
+12000,3,1,120,31,3. Kat,Melikgazi,Kılıçaslan
+10000,2,1,145,21,10. Kat,Kocasinan,Camiikebir
+17500,3,1,160,5,4. Kat,Kocasinan,Hoca Ahmet Yesevi
+17999,2,1,50,3,5. Kat,Talas,Tablakaya
+8000,3,1,145,21,2. Kat,Kocasinan,Fevzi Çakmak
+18000,3,1,200,25,10. Kat,Kocasinan,Hacı Saki
+12500,2,1,120,7,13. Kat,Talas,Mevlana
+14000,3,1,180,16,5. Kat,Kocasinan,Mevlana
+13000,2,1,135,3,9. Kat,Kocasinan,Yenidoğan
+10000,3,1,120,25,4. Kat,Kocasinan,Sahabiye
+25000,3,3,250,16,5. Kat,Kocasinan,Fevzi Çakmak
+8000,3,1,120,25,Bodrum ve Zemin,Kocasinan,General Emir
+11000,3,1,135,15,1. Kat,Develi,Mustafa Asım Köksal
+10000,3,1,165,8,12. Kat,Kocasinan,Beyazşehir
+1400000,3,1,130,20,Yüksek Giriş,Kocasinan,Sahabiye
+10000,3,1,139,10,En Üst Kat,Develi,Yeni
+13849,2,1,95,2,4. Kat,Kocasinan,Şeker
+15000,3,1,180,18,2. Kat,Melikgazi,Yıldırım Beyazıt
+9000,3,1,120,30,Yüksek Giriş,Develi,Bahçelievler
+16000,6,2,250,8,9. Kat,Melikgazi,Bahçelievler
+12000,2,1,90,5,3. Kat,Kocasinan,Sahabiye
+14000,3,1,145,0,8. Kat,Kocasinan,Ertuğrul Gazi
+10000,3,1,155,16,10. Kat,Kocasinan,Beyazşehir
+9000,2,1,120,0,2. Kat,Melikgazi,Mimarsinan
+11000,1,1,85,16,Yüksek Giriş,Kocasinan,Fevzi Çakmak
+13000,3,1,145,11,10. Kat,Talas,Mevlana
+12500,3,1,135,5,8. Kat,Talas,Mevlana
+14000,3,1,120,20,Ara Kat,Develi,Yeni
+10000,3,1,135,0,En Üst Kat,Develi,Mustafa Asım Köksal
+13500,3,1,145,14,13. Kat,Talas,Mevlana
+9000,2,1,110,0,Yüksek Giriş,Melikgazi,Mimarsinan
+18500,3,1,180,16,14. Kat,Talas,Mevlana
+15500,2,1,120,10,12. Kat,Talas,Bahçelievler
+16000,3,1,175,11,7. Kat,Kocasinan,Uğurevler
+5000,4,1,180,25,Ara Kat,Develi,Feneseyukarı
+20000,4,1,220,0,14. Kat,Kocasinan,Alsancak
+13500,2,1,125,0,5. Kat,Kocasinan,Ertuğrul Gazi
+18000,3,1,160,31,7. Kat,Melikgazi,Alpaslan
+9000,3,1,150,25,6. Kat,Melikgazi,Gülük
+10000,2,1,100,0,Yüksek Giriş,Develi,Harman
+12000,1,1,70,5,2. Kat,Talas,Mevlana
+9000,2,1,110,16,Zemin,Kocasinan,Sahabiye
+11000,3,1,135,16,4. Kat,Kocasinan,Yavuzlar
+14750,3,1,165,5,11. Kat,Melikgazi,19 Mayıs
+15000,4,1,240,5,En Üst Kat,Develi,Feneseaşağı
+16500,3,1,175,0,3. Kat,Kocasinan,Seyrani
+15000,3,1,150,6,7. Kat,Talas,Yenidoğan
+12000,3,1,165,4,4. Kat,Melikgazi,Yıldırım Beyazıt
+10000,2,1,135,11,1. Kat,Kocasinan,Fevzi Çakmak
+15000,3,1,175,11,3. Kat,Talas,Mevlana
+13000,2,1,110,11,6. Kat,Talas,Mevlana
+11000,3,1,125,3,3. Kat,Develi,Feneseyukarı
+18000,4,1,220,5,9. Kat,Melikgazi,Köşk
+10000,3,1,140,15,5. Kat,Talas,Mevlana
+50000,5,1,350,14,4. Kat,Melikgazi,Köşk
+11495,2,1,120,0,2. Kat,Kocasinan,Şeker
+10000,3,1,135,12,Ara Kat,Develi,Reşadiye
+15000,3,1,120,31,2. Kat,Kocasinan,Sahabiye
+12000,2,1,85,0,4. Kat,Kocasinan,Şeker
+15000,3,1,225,26,3. Kat,Kocasinan,Mimarsinan
+18000,3,1,165,0,10. Kat,Talas,Bahçelievler
+12000,3,1,165,16,3. Kat,Kocasinan,Mevlana
+18000,3,1,175,9,14. Kat,Talas,Bahçelievler
+28000,3,1,200,2,3. Kat,Kocasinan,Yakut
+13500,3,1,165,5,3. Kat,Talas,Mevlana
+15000,3,1,175,5,4. Kat,Talas,Mevlana
+7000,2,1,100,8,Ara Kat,İncesu,Semerkent
+699,2,1,55,7,4. Kat,Talas,Mevlana
+200000,3,1,175,3,12. Kat,Melikgazi,Esenyurt
+12500,3,1,120,0,Yüksek Giriş,Develi,Aşık Seyrani
+13500,3,1,165,11,7. Kat,Melikgazi,Altınoluk
+12000,3,1,140,26,7. Kat,Melikgazi,Esentepe
+15000,1,1,110,16,3. Kat,Kocasinan,Mevlana
+15000,3,1,185,9,12. Kat,Talas,Mevlana
+12000,3,1,175,11,11. Kat,Talas,Mevlana
+20000,4,1,210,9,11. Kat,Talas,Mevlana
+13000,3,1,160,9,En Üst Kat,Melikgazi,19 Mayıs
+7500,3,1,150,26,3. Kat,Melikgazi,Gülük
+17000,4,1,200,0,6. Kat,Kocasinan,Yenidoğan
+12000,3,1,175,21,1. Kat,Melikgazi,Alpaslan
+15500,3,1,175,1,3. Kat,Kocasinan,Ertuğrul Gazi
+12900,3,1,210,31,4. Kat,Kocasinan,Sahabiye
+17500,4,1,200,2,5. Kat,Kocasinan,Ertuğrul Gazi
+11000,3,1,165,11,6. Kat,Melikgazi,Bahçelievler
+16750,3,1,150,1,6. Kat,Talas,Mevlana
+15000,3,1,187,5,8. Kat,Talas,Yenidoğan
+8500,3,1,165,21,1. Kat,Kocasinan,Yenişehir
+20000,4,1,200,0,9. Kat,Kocasinan,Seyrani
+17000,4,1,180,25,9. Kat,Kocasinan,Sahabiye
+12500,3,1,140,5,En Üst Kat,Develi,Camiicedit
+21000,3,1,165,5,9. Kat,Melikgazi,Esenyurt
+20000,4,1,220,15,6. Kat,Kocasinan,Mimarsinan
+11500,3,1,140,0,3. Kat,Develi,Aşık Seyrani
+14275,1,1,87,4,2. Kat,Melikgazi,Tacettin Veli
+20000,4,1,180,1,2. Kat,Melikgazi,Germir
+13000,3,1,155,15,6. Kat,Talas,Mevlana
+20000,3,1,150,0,11. Kat,Talas,Bahçelievler
+15000,3,1,165,0,4. Kat,Kocasinan,Ertuğrul Gazi
+12000,3,1,150,15,15. Kat,Talas,Mevlana
+12500,1,1,75,5,14. Kat,Talas,Mevlana
+10000,3,1,135,1,Giriş Katı,Develi,Aşağıeverek
+11000,2,1,90,0,Zemin,Kocasinan,Şeker
+7000,2,1,100,15,2. Kat,Melikgazi,Demokrasi
+5500,2,1,100,31,Giriş Katı,Kocasinan,Sahabiye
+13000,2,1,110,0,Ara Kat,Develi,Yeni
+15000,3,1,170,14,1. Kat,Talas,Yenidoğan
+13000,3,1,165,10,11. Kat,Melikgazi,Gesi Fatih
+12500,3,1,155,15,5. Kat,Talas,Mevlana
+10000,3,1,145,11,5. Kat,Talas,Mevlana
+11000,3,1,140,1,6. Kat,Kocasinan,Ertuğrul Gazi
+14000,3,1,150,15,Ara Kat,Kocasinan,Zümrüt
+14435,2,1,98,2,4. Kat,Kocasinan,Şeker
+25000,4,1,250,11,3. Kat,Melikgazi,Köşk
+14000,2,1,110,2,11. Kat,Talas,Mevlana
+12000,3,1,155,11,13. Kat,Talas,Mevlana
+15000,3,1,170,15,7. Kat,Melikgazi,Kılıçaslan
+14000,4,0,125,0,4. Kat,Kocasinan,Şeker
+10000,3,1,120,30,2. Kat,Melikgazi,Yeniköy
+13000,3,1,140,0,Ara Kat,Develi,Şehit Üsteğmen Hasan Şahan
+11500,3,1,175,15,7. Kat,Melikgazi,Gülük
+12499,1,1,60,0,1. Kat,Talas,Harman
+14000,2,1,109,2,11. Kat,Talas,Mevlana
+18000,2,1,135,0,5. Kat,Talas,Mevlana
+14000,2,1,110,0,3. Kat,Talas,Mevlana
+9000,3,1,110,21,2. Kat,Talas,Mevlana
+15000,4,1,170,9,2. Kat,Melikgazi,Yıldırım Beyazıt
+18000,3,1,130,3,14. Kat,Kocasinan,Sahabiye
+14000,4,1,175,0,9. Kat,Melikgazi,Yeşilyurt
+10000,2,1,95,13,3. Kat,Talas,Mevlana
+13500,3,1,165,5,4. Kat,Talas,Mevlana
+12000,3,1,165,5,4. Kat,Melikgazi,Şirintepe
+14000,2,1,120,1,4. Kat,Kocasinan,Şeker
+12000,3,1,110,20,Kot 2,Kocasinan,Mevlana
+12499,1,1,60,0,1. Kat,Talas,Harman
+13500,3,0,110,1,4. Kat,Kocasinan,Şeker
+12000,3,1,180,2,7. Kat,Melikgazi,Mimarsinan OSB
+15000,2,1,130,5,2. Kat,Talas,Kiçiköy
+12000,2,1,100,0,4. Kat,Kocasinan,Şeker
+13500,1,1,90,0,3. Kat,Talas,Bahçelievler
+9500,1,1,70,4,1. Kat,Kocasinan,Şeker
+13500,1,1,60,5,9. Kat,Talas,Mevlana
+14000,1,1,75,5,2. Kat,Talas,Tablakaya
+11000,2,1,100,1,5. Kat,Kocasinan,Şeker
+12000,1,1,75,5,4. Kat,Talas,Mevlana
+10000,2,1,120,8,4. Kat,Talas,Mevlana
+10000,3,1,160,5,12. Kat,Kocasinan,Beyazşehir
+14000,3,1,145,5,6. Kat,Talas,Mevlana
+14245,2,1,95,2,2. Kat,Kocasinan,Şeker
+9000,2,1,85,5,Çatı Katı,Bünyan,Dervişağa
+16000,4,1,185,5,7. Kat,Talas,Mevlana
+15000,2,1,125,2,1. Kat,Talas,Bahçelievler
+13000,4,0,120,0,5. Kat,Kocasinan,Şeker
+16000,4,1,200,0,12. Kat,Kocasinan,Ertuğrul Gazi
+17500,2,1,100,4,1. Kat,Talas,Bahçelievler
+12500,1,1,80,5,Yüksek Giriş,Talas,Mevlana
+14000,3,1,160,1,3. Kat,Kocasinan,Şeker
+16000,3,1,130,35,3. Kat,Kocasinan,Hoca Ahmet Yesevi
+13000,2,1,100,0,3. Kat,Kocasinan,Osmangazi
+9500,1,0,80,10,2. Kat,Develi,İbrahimağa
+14750,2,1,110,0,12. Kat,Talas,Mevlana
+12500,2,1,125,0,5. Kat,Talas,Mevlana
+11000,4,0,130,0,5. Kat,Kocasinan,Şeker
+16000,2,1,115,0,5. Kat,Talas,Mevlana
+13000,3,1,170,6,7. Kat,Melikgazi,Mimarsinan
+12000,2,1,120,11,6. Kat,Talas,Mevlana
+15000,3,1,175,5,15. Kat,Talas,Mevlana
+7500,3,1,110,21,3. Kat,Bünyan,Dervişağa
+14000,3,1,150,18,4. Kat,Talas,Bahçelievler
+14000,3,1,155,0,1. Kat,Kocasinan,Ertuğrul Gazi
+15000,3,1,165,11,10. Kat,Kocasinan,Yakut
+15000,3,1,165,10,3. Kat,Talas,Mevlana
+8500,3,1,140,16,5. Kat,Kocasinan,Yenidoğan
+13500,3,1,135,14,Yüksek Giriş,Develi,Şehit Üsteğmen Hasan Şahan
+12500,2,1,70,5,13. Kat,Talas,Mevlana
+9000,3,1,135,16,8. Kat,Talas,Mevlana
+11000,2,1,110,8,4. Kat,Talas,Mevlana
+17000,4,1,180,0,11. Kat,Kocasinan,Ertuğrul Gazi
+12499,1,1,60,0,2. Kat,Talas,Harman
+11500,3,1,175,11,Ara Kat,Talas,Yenidoğan
+10000,3,1,165,16,Yüksek Giriş,Kocasinan,Mevlana
+10000,2,1,110,21,1. Kat,Kocasinan,Kocasinan
+9000,3,1,165,26,1. Kat,Kocasinan,Sahabiye
+9900,3,1,110,4,2. Kat,Develi,Harman
+13500,1,1,90,5,3. Kat,Talas,Kiçiköy
+9750,3,1,110,24,Yüksek Giriş,Melikgazi,Anafartalar
+17500,3,1,170,0,4. Kat,Kocasinan,Osmangazi
+8000,2,1,110,30,3. Kat,Kocasinan,Mimarsinan
+12000,2,1,115,0,5. Kat,Kocasinan,Şeker
+13000,3,1,145,1,5. Kat,Kocasinan,Erkilet
+13000,3,1,165,4,4. Kat,Talas,Mevlana
+12000,2,1,120,0,1. Kat,Melikgazi,Hürriyet
+15000,3,1,150,13,7. Kat,Melikgazi,Yıldırım Beyazıt
+10250,3,1,130,26,3. Kat,Melikgazi,Aydınlıkevler
+11000,3,1,155,16,8. Kat,Melikgazi,Bahçelievler
+20000,4,1,200,1,10. Kat,Kocasinan,Seyrani
+14275,1,1,57,4,4. Kat,Melikgazi,Hunat
+13000,3,1,115,1,2. Kat,Kocasinan,Şeker
+14000,3,1,170,5,5. Kat,Kocasinan,Seyrani
+16000,3,1,165,10,12. Kat,Talas,Mevlana
+11500,3,1,170,16,7. Kat,Kocasinan,Sahabiye
+13500,3,1,150,15,Ara Kat,Talas,Mevlana
+12000,3,1,160,20,14. Kat,Talas,Mevlana
+9000,1,1,75,20,Ara Kat,Develi,Harman
+14500,2,1,110,7,6. Kat,Talas,Mevlana
+10000,3,1,120,20,13. Kat,Melikgazi,Şirintepe
+14000,3,1,165,11,6. Kat,Kocasinan,Fevzi Çakmak
+12000,3,0,125,18,5. Kat,Melikgazi,İldem Cumhuriyet
+10000,3,1,100,0,Ara Kat,Develi,Aşık Seyrani
+200000,3,1,175,3,12. Kat,Melikgazi,Esenyurt
+13500,3,1,175,10,11. Kat,Talas,Yenidoğan
+24000,3,1,170,1,4. Kat,Talas,Mevlana
+12000,3,1,135,10,4. Kat,Develi,Camiicedit
+12000,1,1,75,4,4. Kat,Talas,Tablakaya
+13000,3,1,135,20,Ara Kat,Talas,Mevlana
+12500,3,1,150,8,6. Kat,Talas,Mevlana
+40000,4,1,240,5,8. Kat,Kocasinan,Erciyesevler
+14499,1,1,59,0,4. Kat,Kocasinan,Gevhernesibe
+15000,3,1,175,5,1. Kat,Kocasinan,Fevzi Çakmak
+11500,3,1,160,16,10. Kat,Talas,Mevlana
+15000,3,1,140,0,1. Kat,Develi,Yeni
+16000,3,1,170,5,5. Kat,Talas,Yenidoğan
+20000,2,1,75,1,3. Kat,Talas,Mevlana
+14000,3,1,150,5,1. Kat,Talas,Mevlana
+10000,3,1,165,16,11. Kat,Kocasinan,Beyazşehir
+12000,3,1,160,21,4. Kat,Kocasinan,Erciyesevler
+19000,3,1,175,11,3. Kat,Talas,Bahçelievler
+13000,3,1,120,1,7. Kat,Kocasinan,Şeker
+13999,2,1,95,1,5. Kat,Kocasinan,Şeker
+20000,3,1,190,0,8. Kat,Kocasinan,Yakut
+24000,3,1,205,4,3. Kat,Kocasinan,Yakut
+14000,2,1,100,0,8. Kat,Melikgazi,Battalgazi
+10000,3,1,165,5,12. Kat,Kocasinan,Beyazşehir
+9000,2,1,100,1,Kot 2,Melikgazi,Tavlusun
+21500,3,1,175,0,3. Kat,Kocasinan,Yakut
+12500,3,1,175,26,2. Kat,Kocasinan,Fevzi Çakmak
+21000,4,1,220,11,7. Kat,Kocasinan,Barbaros
+13000,2,1,82,1,1. Kat,Melikgazi,Mimarsinan
+7250,2,1,110,30,2. Kat,Develi,Alpaslan
+15000,5,1,160,2,En Üst Kat,Develi,Yeni
+8000,3,1,145,16,2. Kat,Kocasinan,Yeni
+10000,3,1,155,11,1. Kat,Talas,Mevlana
+13495,2,1,95,2,3. Kat,Kocasinan,Şeker
+14000,3,1,165,5,4. Kat,Melikgazi,Gesi Fatih
+16000,3,1,135,5,4. Kat,Kocasinan,Osmangazi
+25000,4,1,215,0,1. Kat,Kocasinan,Alsancak
+13500,3,1,120,4,Ara Kat,Develi,Mustafa Asım Köksal
+22000,3,1,165,11,10. Kat,Talas,Bahçelievler
+13000,3,1,135,0,4. Kat,Develi,Harman
+17000,3,1,175,11,9. Kat,Talas,Mevlana
+15000,2,1,100,0,9. Kat,Kocasinan,Şeker
+13000,3,1,170,7,2. Kat,Melikgazi,İldem Cumhuriyet
+10500,3,1,120,21,9. Kat,Melikgazi,19 Mayıs
+12000,3,1,155,5,Zemin,Melikgazi,Bahçelievler
+15000,2,1,110,0,3. Kat,Talas,Mevlana
+16000,4,1,220,21,4. Kat,Kocasinan,Gevhernesibe
+12499,1,1,60,0,2. Kat,Talas,Bahçelievler
+12000,2,1,80,11,13. Kat,Talas,Mevlana
+10000,3,1,120,15,4. Kat,Kocasinan,Yavuzlar
+22000,3,1,175,2,10. Kat,Talas,Mevlana
+12000,3,1,140,12,Yüksek Giriş,Develi,İbrahimağa
+35000,4,1,235,11,10. Kat,Melikgazi,Yıldırım Beyazıt
+13500,3,1,155,11,11. Kat,Talas,Mevlana
+12500,2,1,110,3,2. Kat,Talas,Mevlana
+14000,3,1,160,3,11. Kat,Kocasinan,Yavuz Selim
+12499,1,1,60,2,1. Kat,Talas,Harman
+10000,2,1,115,0,Ara Kat,Develi,Yeni
+8500,2,1,85,5,4. Kat,İncesu,Karamustafapaşa
+13000,2,1,90,10,14. Kat,Talas,Mevlana
+22000,3,1,175,0,6. Kat,Kocasinan,Yakut
+25000,4,1,200,0,3. Kat,Kocasinan,Zümrüt
+17500,2,1,98,1,3. Kat,Talas,Tablakaya
+10000,3,1,135,0,Bahçe Katı,Develi,Mustafa Asım Köksal
+25000,3,1,155,3,2. Kat,Melikgazi,Köşk
+14000,3,1,150,14,4. Kat,Talas,Bahçelievler
+10000,2,1,135,10,3. Kat,Develi,Reşadiye
+15500,3,1,175,0,9. Kat,Kocasinan,Mithatpaşa
+14300,1,1,61,4,5. Kat,Kocasinan,Fevzi Çakmak
+12000,1,1,90,3,11. Kat,Talas,Tablakaya
+19000,3,1,175,5,1. Kat,Talas,Mevlana
+13000,2,1,120,5,10. Kat,Melikgazi,Gesi Fatih
+10250,3,1,130,6,3. Kat,Develi,Yeni
+11500,3,1,150,15,3. Kat,Talas,Mevlana
+12500,2,1,80,2,1. Kat,Kocasinan,Şeker
+25000,3,1,160,0,7. Kat,Kocasinan,Yakut
+12000,2,1,90,4,Giriş Katı,Talas,Mevlana
+8000,3,1,140,25,2. Kat,Develi,Yeni
+12500,2,1,104,5,Ara Kat,Talas,Mevlana
+8100,2,1,115,5,7. Kat,İncesu,Fırınönü
+18000,3,1,175,5,10. Kat,Talas,Bahçelievler
+10000,2,1,100,8,10. Kat,Talas,Mevlana
+12000,1,1,90,2,10. Kat,Talas,Mevlana
+12000,2,1,150,0,9. Kat,Melikgazi,Yeşilyurt
+15000,2,1,90,2,10. Kat,Talas,Mevlana
+11500,3,1,150,13,Ara Kat,Talas,Mevlana
+10000,2,1,85,8,6. Kat,Talas,Mevlana
+25000,2,1,135,1,1. Kat,Kocasinan,Şeker
+16000,2,1,90,11,7. Kat,Talas,Mevlana
+7000,1,0,55,1,Kot 2,Talas,Harman
+22000,3,1,175,0,1. Kat,Talas,Mevlana
+12745,1,0,46,0,6. Kat,Kocasinan,Gevhernesibe
+17000,3,1,170,5,5. Kat,Talas,Mevlana
+12000,4,0,80,0,4. Kat,Kocasinan,Şeker
+12000,3,1,150,5,3. Kat,Kocasinan,Yunusemre
+14000,3,1,165,11,8. Kat,Talas,Yenidoğan
+13500,1,1,55,5,2. Kat,Talas,Kiçiköy
+14500,3,1,170,5,8. Kat,Talas,Bahçelievler
+13000,3,0,115,0,1. Kat,Kocasinan,Şeker
+21250,4,1,190,11,1. Kat,Kocasinan,Erciyesevler
+11750,2,1,110,1,5. Kat,Kocasinan,Şeker
+12750,3,1,160,21,4. Kat,Melikgazi,Osman Kavuncu
+8000,3,1,130,26,3. Kat,Kocasinan,Yenişehir
+13000,3,1,160,5,3. Kat,Kocasinan,Mithatpaşa
+9000,2,1,130,16,5. Kat,Kocasinan,Yavuz Selim
+16000,2,1,150,9,4. Kat,Kocasinan,Yıldızevler
+12000,3,1,150,4,3. Kat,Kocasinan,Yunusemre
+16500,3,1,195,21,6. Kat,Kocasinan,Gevhernesibe
+15300,3,1,190,11,4. Kat,Melikgazi,Esentepe
+13000,1,1,90,5,Giriş Katı,Talas,Mevlana
+12250,2,1,90,0,7. Kat,Kocasinan,Şeker
+9450,1,0,45,16,3. Kat,Melikgazi,Gülük
+22000,3,1,175,6,4. Kat,Melikgazi,Battalgazi
+8000,2,1,100,21,3. Kat,Kocasinan,Kayabaşı
+13000,2,1,95,0,2. Kat,Melikgazi,Şirintepe
